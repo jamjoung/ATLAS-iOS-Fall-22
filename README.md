@@ -1,6 +1,6 @@
 # ATLAS-iOS-Fall-22
 
-# Possible App Ideas:
+## Possible App Ideas:
 - Journaling App 
   - Creative Themes that users can choose from
   - Allows for easy access, encourages consistency through small in-app rewards or customization options, etc
