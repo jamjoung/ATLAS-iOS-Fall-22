@@ -1,2 +1,8 @@
-project (name TBD): JournalingApp
-name: Jamie Joung
+--- 
+10-ux-ui-criticism: 
+  - "https://youtu.be/BdtXTikJDMU"
+11-models-from-data: 
+  - "https://github.com/jamjoung/ATLAS-iOS-Fall-22/tree/main/RandomFact"
+name: "Jamie Joung"
+repo_names: 
+  - JournalApp
