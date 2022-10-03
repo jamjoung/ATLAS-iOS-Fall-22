@@ -8,4 +8,6 @@
   - Be able to see your progress/consistency from an overall perspective (ex: githubs commit history,  coloring page where each day is a spot, etc)
   - I may use a Calendar API, but other than that I will need to do more research to see if I need any others.
   
-- 
+
+## Assignment Due Oct 3 - UI UX Criticism
+- Snag App Review: https://youtu.be/BdtXTikJDMU
