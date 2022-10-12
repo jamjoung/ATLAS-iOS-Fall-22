@@ -4,5 +4,6 @@
 11-models-from-data: 
   - "https://github.com/jamjoung/ATLAS-iOS-Fall-22/tree/main/RandomFact"
 name: "Jamie Joung"
+project-check-in-1: "https://github.com/jamjoung/ATLAS-iOS-Fall-22/issues/2"
 repo_names: 
   - JournalApp
